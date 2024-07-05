@@ -1,0 +1,22 @@
+body{
+    background-color:skyblue;
+}
+
+
+h1{
+    p.dashed {border-style: dashed;}
+    text-shadow: 2px 2px darkcyan;
+}
+img{
+    margin-left: 50px;
+    width: 200px;
+    height:200px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    border: 2px solid;
+    align-items: center;
+    border-color: black
+    
+}
